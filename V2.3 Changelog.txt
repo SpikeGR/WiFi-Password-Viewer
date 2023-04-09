@@ -1,0 +1,13 @@
+WiFi Password Viewer
+Version: 2.3
+Released on: April 9, 2023
+
+WiFi Password Viewer has been updated to version 2.3
+Below you can see what changed in this update:
+
+-------------------
+1) Fixed an issue where in the update prompt if you entered an invalid option
+   it would download the update and completely ignore your response.
+
+2) Background changes.
+-------------------
