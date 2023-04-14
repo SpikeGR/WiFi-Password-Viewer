@@ -24,5 +24,5 @@ https://instagram.com/spikegr_official
 ►TikTok:
 https://tiktok.com/@spikegr_yt
 
-►Website: (Temporarily Offline)
+►Website:
 https://spikegr.cf
