@@ -16,14 +16,14 @@ YOU HAVE BEEN WARNED!
 ## If you want to get in touch with me, below are my Social Media!
 
 ►YouTube:
-youtube.com/spikegreece
+https://youtube.com/spikegreece
 
 ►Instagram:
-instagram.com/spikegr_official
+https://instagram.com/spikegr_official
 
 ►TikTok:
-tiktok.com/@spikegr_yt
+https://tiktok.com/@spikegr_yt
 
 ►Website:
-spikegr.cf
+https://spikegr.cf
 -----
