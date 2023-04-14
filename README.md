@@ -13,16 +13,16 @@ DO NOT DELETE/RENAME OR EDIT ANY OF THE FILES. DOING SO MIGHT COMPLETELY BREAK T
 YOU HAVE BEEN WARNED!
 
 -----
-## If you want to get in touch with me, below are my Social Media!
+## Our Social Media
 
-►YouTube:
-https://youtube.com/spikegreece
+ - YouTube:
+[https://youtube.com/spikegreece](https://youtube.com/spikegreece)
 
-►Instagram:
-https://instagram.com/spikegr_official
+ - Instagram:
+[https://instagram.com/spikegr_official](https://instagram.com/spikegr_official)
 
-►TikTok:
-https://tiktok.com/@spikegr_yt
+ - TikTok:
+[https://tiktok.com/@spikegr_yt](https://tiktok.com/@spikegr_yt)
 
-►Website:
-https://spikegr.cf
+ - Website:
+[https://spikegr.cf](https://spikegr.cf/)
