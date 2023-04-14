@@ -1,6 +1,5 @@
 # WiFi Password Viewer V2.3
 ## Created by SpikeGR
-//////////\\\\\\\\\\
 
 # Did you forget your WiFi password?
 
