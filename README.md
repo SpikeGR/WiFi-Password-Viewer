@@ -19,14 +19,14 @@ is not responsible for anything arising from its use.
 
 ##  What's new in version 2.4
 
-- **Updater Improvements**
+- **Updater Improvements:**
 Enhanced functionality and reliability with several updates.
 
-- **Performance Optimization**
+- **Performance Optimization:**
 Removed unnecessary components, resulting in faster execution of WiFi Password Viewer.
 
-- **Documentation Updates**
+- **Documentation Updates:**
 Improved the Readme file to provide clearer and more detailed instructions.
 
-- **File Organization**
+- **File Organization:**
 Optimized folder structure for better organization and easier navigation.
